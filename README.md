@@ -1,3 +1,15 @@
+# Android Twitter Client
+
+Displays User Time line Content
+
+Demo:
+
+<p>
+Demo Link: <a href="https://github.com/mohnishbasha/AndroidTwitterClient/blob/master/TwitterClient.gif"> <br> <br>
+<img border="0" alt="W3Schools" src="https://github.com/mohnishbasha/AndroidTwitterClient/blob/master/TwitterClient.gif" width="100%" height="100%"> <br>
+</a>
+
+
 # RestClientTemplate
 
 ## Overview
